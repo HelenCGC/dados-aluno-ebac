@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Helen 
+-Profissão: Bibliotecária e estudante
+-Cidade: Porto
+-O que faz nas horas vaga: estudo TI para migrar de área
+-Feedback sobre o curso Qualidade de Software: Muito bom para um pontapé inicial na área de testes como Analista de Qualidade. As vezes sinto falta de mais práticas em aula (para aprendermos vendo), maior detalhamento ou adição de material de suporte, entretanto, seguindo para ver como o curso irá se desenvolver e concluir antes de ter uma opinião 100% formada.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito boa  intuitiva, por vezes ocorrem falhas ao atualizar a compeltude dos módulos, mas são facilmente resolvidas ao contactar o time de suporte.
 
 Obrigado!!!
-
-
